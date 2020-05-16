@@ -44,18 +44,18 @@ Mr.Cường sẽ thực hiện các nhiệm vụ sau:
 - KHÔNG thăm ốm đau của tứ thân phụ mẫu.
 - Kinh phí đi lại: trích quỹ đội bóng.
 - Phương tiện đi lại: ưu tiên thuê xe ngoài.
-- Trường hợp do khoảng cách đi thăm quá xa (không thể đi - về trong ngày) thì chỉ gửi phong bì.
+- Trường hợp do khoảng cách đi thăm quá xa (không thể đi - về trong ngày) đội bóng chỉ gửi phong bì.
 - Ngoài phong bì chung của đội bóng, anh em có thể tự do đi theo mức tình cảm cá nhân.
 :::
 
 ### Đóng quỹ
-- Việc đóng quỹ là nghĩa vụ bắt buộc đối với mọi thành viên trong đội bóng.
+- Việc đóng quỹ là `nghĩa vụ bắt buộc đối với mọi thành viên trong đội bóng`.
   * Mức đóng `200,000 VNĐ/người/tháng`.
   * Thời gian thu `từ ngày 1 tới 15 hàng tháng dương lịch`.
 ::: warning
 - Riêng trường hợp `Mr.Trường và Mr.Hùng Honda` không cần nộp quỹ.  
-Lý do: đã tạo điều kiện cho anh em được vào đá sân bóng Honda, góp phần giảm chi phí thuê sân bãi.
-- Thành viên đội bóng `không cần đóng quỹ` với trường hợp không tham gia sinh hoạt trong tháng đó và `phải thông báo việc tạm dừng tới ban điều hành`.
+Lý do: Mr.Trường và Mr.Hùng đã tạo điều kiện cho anh em được vào đá sân bóng Honda, góp phần giảm chi phí thuê sân bãi.
+- Thành viên đội bóng `không cần đóng quỹ` với trường hợp KHÔNG tham gia sinh hoạt trong tháng đó và `đã thông báo việc tạm dừng tới ban điều hành`.
 :::
 
 ### Tuyển thành viên mới
@@ -97,6 +97,8 @@ Trường hợp một số anh em lấy tư cách FC KĐT đi giao hữu với c
 - Thông tin, hình ảnh đưa lên nhóm:
   * `Không hình ảnh/video đồi trụy.`
   * `Không quảng cáo.`
+  * `Không sử dụng từ ngữ tục tĩu`.
+  * `Ưu tiên viết Tiếng Việt có dấu cho dễ đọc`.
 :::
 
 ### Tổ chức giải
@@ -104,17 +106,19 @@ Giải đấu sẽ được tổ chức `2 lần/năm`.
 Thời gian và cách thức tổ chức giải sẽ được ban điều hành thông báo tới toàn thể anh em.
 
 ### Tài trợ
-Đội bóng khuyến khích và trân trọng tấm lòng của các `Mạnh Thường Quân`.
+Đội bóng khuyến khích và trân trọng tấm lòng của các `Mạnh Thường Quân` tham gia tài trợ kinh phí cho đội bóng.
 
 ### Yêu cầu khi tham gia đá bóng
 - Tham gia ít nhất 50% số trận/tháng.
-- Đi đá bóng đúng giờ (tôn trọng tập thể và tôn trọng chính mình).
+- Đi đúng giờ (tôn trọng tập thể và tôn trọng chính mình).
 - Trang phục: mặc đầy đủ trang phục đá bóng (quần, áo, giầy, áo tập - đã cấp).
 - Thái độ: nhiệt tình, vui vẻ, không nói tục chửi bậy, hạn chế các tình huống vào bóng nguy hiểm.
 - Tuân thủ quy định của chủ sân, đặc biệt là sân Honda.
 ::: warning
 - Trường hợp tới `muộn hoặc nghỉ` phải thông báo để ban điều hành chủ động bố trí nhân sự.
 - Hạn chế cho mượn áo trong trường hợp quên áo tập để nâng cao tinh thành trách nhiệm, ý thức kỷ luật.
+- Trường hợp có xô sát xảy ra, anh em cần đặt lợi ích chung đội bóng lên đầu tiên.  
+Ban điều hành có trách nhiệm giúp đỡ anh em giải quyết các mâu thuẫn.
 :::
 
 ### Luật chơi bóng
