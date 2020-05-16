@@ -2,6 +2,12 @@
 ![AnhDoiBong](./fc.jpg)
 
 ## Sơ đồ tổ chức
+FC KĐT Đồng Văn không chỉ là một đội bóng.  
+Chúng ta còn là một cộng đồng!  
+Ban điều hành - thừa ủy quyền của toàn bộ anh em trong đội bóng sẽ đứng ra thực hiện những công việc chung.  
+Sơ đồ tổ chức hiện nay được thể hiện như hình dưới đây:
+![OrgChart](./OrgChart.jpg)
+
 
 ## Chức năng - Nhiệm vụ
 ### Điều hành chung - Mr.Hạp
