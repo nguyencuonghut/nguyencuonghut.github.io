@@ -10,7 +10,7 @@ Sơ đồ tổ chức hiện nay được thể hiện như hình dưới đây:
 
 
 ## Chức năng - Nhiệm vụ
-### Điều hành chung - Mr.Hạp
+### Điều hành chung - Mr.Bắc
 Mr.Hạp với tư cách đội trưởng đội bóng, đảm nhiệm các nhiệm vụ sau:
 - Phụ trách tài chính: thu, chi quỹ đội bóng.
 - Phụ trách tổ chức các trận đấu:
